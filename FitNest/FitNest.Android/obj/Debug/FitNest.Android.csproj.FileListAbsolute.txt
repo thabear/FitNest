@@ -1,0 +1,227 @@
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\FitNest.Android.pdb
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest.apk
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest-Signed.apk
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\FitNest.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\bin\Debug\FitNest.pdb
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csprojResolveAssemblyReference.cache
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csproj.CoreCompileInputs.cache
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\FitNest.Android.dll
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\FitNest.Android.pdb
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\android\bin\com.companyname.FitNest.apk
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\layout\main.xml
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\values\strings.xml
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\icon.png
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\icon.png
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\R.cs.flag
+D:\DevStuff\Projects\FitNest\FitNest.Android\obj\Debug\uploadflags.txt
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csprojResolveAssemblyReference.cache
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.pdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest.apk
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest-Signed.apk
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.pdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csproj.CoreCompileInputs.cache
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.pdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\android\bin\com.companyname.FitNest.apk
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\menu\menu_main.xml
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\activitymain.xml
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\string.xml
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\color.xml
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_menu_white_24px.svg
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_library_books_black_24px.svg
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_fitness_center_black_24px.svg
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_restaurant_black_24px.svg
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_trending_up_black_24px.svg
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_fitness_center_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_library_books_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_restaurant_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_trending_up_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_fitness_center_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_library_books_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_restaurant_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_trending_up_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_fitness_center_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_library_books_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_restaurant_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_trending_up_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_fitness_center_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_library_books_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_restaurant_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_trending_up_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_fitness_center_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_library_books_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_restaurant_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_trending_up_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\R.cs.flag
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\uploadflags.txt
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll.mdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\android\assets\FitNest.Android.dll.mdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_help_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_help_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_help_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_help_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_help_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_settings_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_settings_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_settings_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_settings_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_settings_black_24dp.png
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\style.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest.apk
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\com.companyname.FitNest-Signed.apk
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csprojResolveAssemblyReference.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.csproj.CoreCompileInputs.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\FitNest.Android.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\android\bin\com.companyname.FitNest.apk
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\menu\menu_main.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\fragment_news.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\fragment_workout_log.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\fragment_meal_tracking.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\fragment_progress.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\layout\activitymain.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\string.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\color.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_menu_white_24px.svg
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_library_books_black_24px.svg
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_fitness_center_black_24px.svg
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_restaurant_black_24px.svg
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\drawable\ic_trending_up_black_24px.svg
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_fitness_center_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_library_books_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_restaurant_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_trending_up_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_fitness_center_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_library_books_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_restaurant_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_trending_up_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_fitness_center_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_library_books_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_restaurant_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_trending_up_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_fitness_center_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_library_books_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_restaurant_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_trending_up_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_fitness_center_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_library_books_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_restaurant_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_trending_up_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_help_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_help_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_help_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_help_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_help_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-hdpi\ic_settings_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xhdpi\ic_settings_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-mdpi\ic_settings_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxhdpi\ic_settings_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\mipmap-xxxhdpi\ic_settings_black_24dp.png
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\res\values\style.xml
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\R.cs.flag
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\uploadflags.txt
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll.mdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\obj\Debug\android\assets\FitNest.Android.dll.mdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.Android\bin\Debug\FitNest.Android.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Data.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Transactions.pdb
+bin\Debug\Mono.Data.Tds.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.IO.Compression.FileSystem.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Web.Services.pdb
+bin\Debug\System.Xml.Linq.pdb
+obj\Debug\linksrc\FitNest.Android.dll.mdb
+obj\Debug\linksrc\FitNest.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Data.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Transactions.pdb
+obj\Debug\linksrc\Mono.Data.Tds.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Web.Services.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb

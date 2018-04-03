@@ -1,0 +1,26 @@
+D:\DevStuff\Projects\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.deps.json
+D:\DevStuff\Projects\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.dll
+D:\DevStuff\Projects\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.pdb
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.csprojResolveAssemblyReference.cache
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.csproj.CoreCompileInputs.cache
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfoInputs.cache
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfo.cs
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.dll
+D:\DevStuff\Projects\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.pdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.deps.json
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.pdb
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.csprojResolveAssemblyReference.cache
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.csproj.CoreCompileInputs.cache
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfoInputs.cache
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfo.cs
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.dll
+C:\Users\cbski\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.deps.json
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\bin\Debug\netstandard2.0\FitNest.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.csproj.CoreCompileInputs.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfoInputs.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.AssemblyInfo.cs
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest\obj\Debug\netstandard2.0\FitNest.pdb

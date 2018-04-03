@@ -1,0 +1,12 @@
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\bin\iPhone\Debug\FitNest.iOS.exe
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\bin\iPhone\Debug\FitNest.iOS.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\bin\iPhone\Debug\FitNest.dll
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\bin\iPhone\Debug\FitNest.pdb
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\FitNest.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\FitNest.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\FitNest.iOS.exe
+C:\Users\Chris B\Projects\FitNest.v1\FitNest\FitNest.iOS\obj\iPhone\Debug\FitNest.iOS.pdb

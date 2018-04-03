@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group 
+        android:id="@+id/group_action">
+      
+        <item android:id="@+id/tab_news"
+              android:icon="@mipmap/ic_library_books_black_24dp"
+              android:title="@string/news"/>
+    
+        <item android:id="@+id/tab_workout_log"
+              android:icon="@mipmap/ic_fitness_center_black_24dp"
+              android:title="@string/workout_log"/>
+    
+        <item android:id="@+id/tab_meal_tracking"
+              android:icon="@mipmap/ic_restaurant_black_24dp"
+              android:title="@string/meal_tracking"/>
+  
+        <item android:id="@+id/tab_progress"
+              android:icon="@mipmap/ic_trending_up_black_24dp"
+              android:title="@string/progress"/>
+      
+    </group>
+  
+    <group
+        android:id="@+id/group_maintenance">
+        
+        <item android:id="@+id/tab_settings"
+              android:icon="@mipmap/ic_settings_black_24dp"
+              android:title="@string/settings"/>
+  
+        <item android:id="@+id/tab_help_and_feedback"
+              android:icon="@mipmap/ic_help_black_24dp"
+              android:title="@string/help_and_feedback"/>
+    
+    </group>
+</menu>
